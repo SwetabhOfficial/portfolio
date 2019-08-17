@@ -766,13 +766,13 @@ p {
       .header-social .header-social-icon ul li:first-child {
         margin-left: 0; }
       .header-social .header-social-icon ul li a {
-        color: #ccc;
+        color: #754ef9cc;
         font-size: 20px;
         width: 40px;
         height: 40px;
         line-height: 40px;
         border-radius: 50%;
-        border: 1px solid #ccc;
+        border: 1px solid #754ef9;
         -webkit-transition: all 0.3s ease-out 0s;
         -moz-transition: all 0.3s ease-out 0s;
         -ms-transition: all 0.3s ease-out 0s;
